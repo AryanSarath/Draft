@@ -1,0 +1,8 @@
+class Divisions{
+    constructor (){
+
+    }
+    display (){
+        
+    }
+}

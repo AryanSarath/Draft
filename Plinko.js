@@ -1,0 +1,8 @@
+class Plinko{
+    constructor (){
+
+    }
+    display (){
+        
+    }
+}

@@ -1,0 +1,8 @@
+class Particle{
+    constructor (){
+
+    }
+    display (){
+        
+    }
+}
